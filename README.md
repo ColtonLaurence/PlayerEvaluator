@@ -6,8 +6,10 @@ A central principle of this work is that player value in baseball is inherently 
 
 ### Repository Structure
 - Model/
+
   Model implementation and forecasting pipeline
 - Data/
+
   Dataset and supporting documentation
 
 Additional details on methodology and data can be found in the respective README files within each directory.
