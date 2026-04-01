@@ -1,5 +1,4 @@
 ## Player Evaluation & Forecasting Model
-
 ### Overview
 This project is a customizable player evaluation and forecasting model designed to translate underlying performance metrics into long-term projections. The model integrates statistical analysis with baseball-specific context to support objective, data-informed decision-making in player development and roster construction.
 
