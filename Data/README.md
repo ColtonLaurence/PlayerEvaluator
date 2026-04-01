@@ -1,5 +1,4 @@
 ## Data Description
-
 This dataset contains the historical performance data used to build and evaluate the player forecasting model.
 
 ### Overview
