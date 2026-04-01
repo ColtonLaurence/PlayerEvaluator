@@ -11,7 +11,7 @@ A central principle of this model is that player value in baseball is inherently
 - Identify comparable players to inform expected outcomes
 - Generate multi-year projections reflecting both skill progression and variability
 
-Methodology
+### Methodology
 1. Custom Player Valuation
    - Users select relevant performance metrics (excluding outcome-based metrics such as WAR or wRC+)
    - Custom weights are applied to construct a composite player value score
@@ -30,32 +30,32 @@ Methodology
    - The model iteratively projects player performance across future seasons
    - Outputs reflect both projected skill changes and variability across comparable outcomes
 
-Data
+### Data
 - Historical dataset spanning 10 MLB seasons (2016–2025)
 - Includes 1,378 qualified hitter seasons (minimum plate appearance threshold)
 - Structured at the player-season level, allowing for longitudinal analysis of performance trends
 
-Outputs
+### Outputs
 - Composite player value scores based on customizable inputs
 - Multi-year projections of player performance
 - Comparable player groupings
 - Visualizations of projected trends and development trajectories
 
-Tools & Technologies
+### Tools & Technologies
 - Python (primary language)
 - Data analysis libraries (pandas, numpy)
 - Notebook environment (Jupyter/Google Colab)
 
-Purpose & Application
+### Purpose & Application
 This model reflects an interest in bridging statistical analysis with on-field understanding of the game. By integrating customizable valuation, aging trends, and comparable player outcomes, it provides a structured yet flexible approach to evaluating and projecting player performance.
 
-Future Improvements
+### Future Improvements
 - Incorporate park factors to better isolate the impact of ballparks on in-game events and underlying performance metrics
 - Expand the model to include defensive and positional value components
 - Integrate pitch-level and batted ball-level data for greater granularity
 - Refine similarity metrics for improved comparable player identification
 - Develop a more modular pipeline for broader application and scalability
 
-Author
+### Author
 Colton Laurence
 Data Science Graduate | Player Development & Baseball Analytics
