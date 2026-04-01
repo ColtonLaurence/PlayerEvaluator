@@ -58,4 +58,5 @@ This model reflects an interest in bridging statistical analysis with on-field u
 
 ### Author
 Colton Laurence
+
 Data Science Graduate | Player Development & Baseball Analytics
