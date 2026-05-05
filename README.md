@@ -21,6 +21,7 @@ The model evaluates and projects players by combining:
 - Aging curve modeling
 - Comparable player analysis
 - Multi-year forecasting
+
 This structure allows for a balance between flexibility, interpretability, and historical grounding.
 
 ### Data
